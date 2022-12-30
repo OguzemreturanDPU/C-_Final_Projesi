@@ -1,0 +1,90 @@
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\bin\Debug\Proje.exe.config
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\bin\Debug\Proje.exe
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\bin\Debug\Proje.pdb
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\obj\Debug\Proje.exe
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\obj\Debug\Proje.pdb
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Test1\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.Odemebilgileri.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.Anaekran.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.SeyahatBilgi.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.Otobussecenek.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.SeyahatSorgu.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.Form4.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.yardım.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.YuklemeEkrani.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.CalisilanFirmalar.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.ok.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.Admin.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.Istatistik.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.grafik.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\MySql.Data.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\MySql.Data.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.MysqlVeriTabani.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\obj\Debug\Proje.csproj.CopyComplete
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\MySqlConnector.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Buffers.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Memory.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\MySqlConnector.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Buffers.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Memory.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje\Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\Proje.exe.config
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\Proje.exe
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\Proje.pdb
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\MySql.Data.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\MySqlConnector.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Buffers.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Memory.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\MySql.Data.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\MySqlConnector.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Buffers.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Memory.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.Admin.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.CalisilanFirmalar.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.grafik.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.Istatistik.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.MysqlVeriTabani.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.Odemebilgileri.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.Anaekran.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.ok.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.SeyahatBilgi.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.Otobussecenek.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.Form4.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.yardım.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.YuklemeEkrani.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.csproj.CopyComplete
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.exe
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.pdb
