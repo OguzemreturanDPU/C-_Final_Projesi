@@ -251,5 +251,12 @@ namespace Proje
             fr.Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FirmaAdmin fr = new FirmaAdmin();
+            fr.Show();
+            this.Hide();
+        }
     }
 }

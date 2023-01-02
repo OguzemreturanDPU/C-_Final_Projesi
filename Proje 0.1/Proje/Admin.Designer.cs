@@ -78,6 +78,7 @@
             this.label15 = new System.Windows.Forms.Label();
             this.tbl_OSDBTableAdapter = new Proje.OtobusSeyahatDBDataSet5TableAdapters.tbl_OSDBTableAdapter();
             this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.contextMenuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox3.SuspendLayout();
@@ -539,7 +540,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(353, 277);
+            this.button1.Location = new System.Drawing.Point(264, 277);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(139, 30);
             this.button1.TabIndex = 210;
@@ -547,12 +548,23 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(432, 277);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(139, 30);
+            this.button2.TabIndex = 211;
+            this.button2.Text = "Firma Admin";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Admin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1372, 585);
             this.ContextMenuStrip = this.contextMenuStrip1;
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.label8);
@@ -629,5 +641,6 @@
         private OtobusSeyahatDBDataSet5TableAdapters.tbl_OSDBTableAdapter tbl_OSDBTableAdapter;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }

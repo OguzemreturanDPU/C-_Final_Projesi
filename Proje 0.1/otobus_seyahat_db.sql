@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: 127.0.0.1:3307
--- Üretim Zamanı: 02 Oca 2023, 15:24:24
+-- Üretim Zamanı: 02 Oca 2023, 17:48:02
 -- Sunucu sürümü: 5.7.37
 -- PHP Sürümü: 8.1.2
 
@@ -357,8 +357,7 @@ INSERT INTO `tbl_sehirler` (`ID`, `sehir`) VALUES
 (78, 'KARABUK'),
 (79, 'KILIS'),
 (80, 'OSMANIYE'),
-(81, 'DUZCE'),
-(82, 'DORTMUND');
+(81, 'DUZCE');
 
 --
 -- Dökümü yapılmış tablolar için indeksler
@@ -414,7 +413,7 @@ ALTER TABLE `tbl_sehirler`
 -- Tablo için AUTO_INCREMENT değeri `tbl_firmalar`
 --
 ALTER TABLE `tbl_firmalar`
-  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
+  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
 
 --
 -- Tablo için AUTO_INCREMENT değeri `tbl_kart`
@@ -438,7 +437,7 @@ ALTER TABLE `tbl_login`
 -- Tablo için AUTO_INCREMENT değeri `tbl_osdb`
 --
 ALTER TABLE `tbl_osdb`
-  MODIFY `OSPNR` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `OSPNR` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- Tablo için AUTO_INCREMENT değeri `tbl_saatler`
@@ -450,7 +449,7 @@ ALTER TABLE `tbl_saatler`
 -- Tablo için AUTO_INCREMENT değeri `tbl_sehirler`
 --
 ALTER TABLE `tbl_sehirler`
-  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=83;
+  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=84;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

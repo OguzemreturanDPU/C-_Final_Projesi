@@ -88,3 +88,4 @@ C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Deb
 C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.exe
 C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.pdb
 C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.Sehiradmin.resources
+C:\Users\Fujitsu\Desktop\Görsel Programcılığı Proje\Proje 0.1\Proje\obj\Debug\Proje.FirmaAdmin.resources

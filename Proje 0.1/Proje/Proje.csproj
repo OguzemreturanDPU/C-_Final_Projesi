@@ -84,12 +84,19 @@
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
     <Compile Include="adminclass.cs" />
+    <Compile Include="adminfirma.cs" />
     <Compile Include="Baglan.cs" />
     <Compile Include="CalisilanFirmalar.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CalisilanFirmalar.Designer.cs">
       <DependentUpon>CalisilanFirmalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirmaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirmaAdmin.Designer.cs">
+      <DependentUpon>FirmaAdmin.cs</DependentUpon>
     </Compile>
     <Compile Include="grafik.cs">
       <SubType>Form</SubType>
@@ -205,6 +212,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CalisilanFirmalar.resx">
       <DependentUpon>CalisilanFirmalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirmaAdmin.resx">
+      <DependentUpon>FirmaAdmin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="grafik.resx">
       <DependentUpon>grafik.cs</DependentUpon>
