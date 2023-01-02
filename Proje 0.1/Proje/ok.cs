@@ -77,7 +77,26 @@ namespace Proje
             komut.Parameters.AddWithValue("@p12", label12.Text);
             komut.ExecuteNonQuery();
             baglanti.Close();
-            MessageBox.Show("Otobüs Seferi Kaydedildi");
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label22_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox3_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

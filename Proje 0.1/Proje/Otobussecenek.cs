@@ -37,10 +37,6 @@ namespace Proje
             {
                 MessageBox.Show("Boş Değer Girilemez");
             }
-            else if (radioButton1.Checked == false)
-            {
-                MessageBox.Show("Boş Değer Girilemez");
-            }
             else
             { 
             Odemebilgileri fr = new Odemebilgileri();
@@ -51,6 +47,7 @@ namespace Proje
             fr.Saat = comboBox2.Text;
             fr.KoltukNumara = comboBox3.Text;
             fr.KoltukStil = label7.Text;
+            fr.Fiyat = label8.Text;
             fr.Show();
             this.Hide();
             }
@@ -65,6 +62,8 @@ namespace Proje
 
         private void Otobussecenek_Load(object sender, EventArgs e)
         {
+           
+
             label4.Text = Nereden;
             label5.Text = Nereye;
             label6.Text = Tarih;
@@ -113,6 +112,8 @@ namespace Proje
                 comboBox3.Items.Add(dr2["koltuk_numara"].ToString());
             }
             baglanti.Close();
+
+            
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
@@ -133,6 +134,23 @@ namespace Proje
 
         private void label7_TextChanged(object sender, EventArgs e)
         {
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            MySqlCommand komut3 = new MySqlCommand();
+            komut3.CommandText = "SELECT fiyat FROM tbl_firmalar  ORDER BY ID='" + comboBox1.SelectedIndex.ToString() + "'";
+            komut3.Connection = baglanti;
+            komut3.CommandType = CommandType.Text;
+
+            MySqlDataReader dr3;
+            baglanti.Open();
+            dr3 = komut3.ExecuteReader();
+            while (dr3.Read())
+            {
+                label8.Text = dr3["fiyat"].ToString();
+            }
+            baglanti.Close();
         }
     }
 }

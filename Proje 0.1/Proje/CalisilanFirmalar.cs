@@ -41,9 +41,19 @@ namespace Proje
             }
         }
 
-        private void anaSayfaToolStripMenuItem_Click(object sender, EventArgs e)
+
+        private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
         {
 
+        }
+
+      
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Anaekran fr = new Anaekran();
+            fr.Show();
+            this.Hide();
         }
     }
 }

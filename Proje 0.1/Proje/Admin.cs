@@ -19,6 +19,7 @@ namespace Proje
             InitializeComponent();
         }
         public string asd;
+        Baglan bagla = new Baglan();
         MySqlConnection baglanti = new MySqlConnection("Server=localhost;Database=otobus_seyahat_db;Uid=root;Pwd=secret;Port=3307");
         void temizle()
         {
@@ -161,22 +162,7 @@ namespace Proje
 
         private void btnKaydet_Click(object sender, EventArgs e)
         {
-            baglanti.Open();
-            MySqlCommand komut = new MySqlCommand("insert into tbl_osdb (OSNereden,OSNereye,OSTarih,OSOtobusFirma,OSSaat,OSKoltukStil,OSKoltukNumara,OSEmail,OSTelefon,OSAd,OSSoyad,OSTC) values (@p1,@p2,@p3,@p4,@p5,@p6,@p7,@p8,@p9,@p10,@p11,@p12)", baglanti);
-            komut.Parameters.AddWithValue("@p1", cmbNereden.Text);
-            komut.Parameters.AddWithValue("@p2", cmbNereye.Text);
-            komut.Parameters.AddWithValue("@p3", textBox1.Text);
-            komut.Parameters.AddWithValue("@p4", cmbOtobüsFirma.Text);
-           komut.Parameters.AddWithValue("@p5", mskSaat.Text);
-            komut.Parameters.AddWithValue("@p6", label8.Text);
-            komut.Parameters.AddWithValue("@p7", cmbKoltukNumara.Text);
-            komut.Parameters.AddWithValue("@p8", txtEmail.Text);
-            komut.Parameters.AddWithValue("@p9", mskTelefon.Text);
-            komut.Parameters.AddWithValue("@p10", txtAd.Text);
-            komut.Parameters.AddWithValue("@p11", txtSoyad.Text);
-            komut.Parameters.AddWithValue("@p12", mskTC.Text);
-            komut.ExecuteNonQuery();
-            baglanti.Close();
+            bagla.OtobusSeferKaydet(cmbNereden.Text, cmbNereye.Text, this.textBox1.Text, cmbOtobüsFirma.Text, mskSaat.Text, label8.Text, cmbKoltukNumara.Text, txtEmail.Text, mskTelefon.Text, txtAd.Text, txtSoyad.Text, mskTC.Text );
             MessageBox.Show("Otobüs Seferi Kaydedildi");
         }
 
@@ -237,33 +223,13 @@ namespace Proje
 
         private void btnSil_Click(object sender, EventArgs e)
         {
-            baglanti.Open();
-            MySqlCommand komutsil = new MySqlCommand("Delete From tbl_osdb Where OSPNR=@k1", baglanti);
-            komutsil.Parameters.AddWithValue("@k1", txtPNR.Text);
-            komutsil.ExecuteNonQuery();
-            baglanti.Close();
+            bagla.OtobusSeferSil(txtPNR.Text);
             MessageBox.Show("Otobüs Seferi Silindi");
         }
 
         private void btnGuncelle_Click(object sender, EventArgs e)
         {
-            baglanti.Open();
-            MySqlCommand komutguncelle = new MySqlCommand("Update tbl_osdb Set OSNereden=@a1,OSNereye=@a2,OSOtobusFirma=@a3,OSKoltukStil=@a4,OSKoltukNumara=@a5,OSEmail=@a6,OSTelefon=@a7,OSAd=@a8,OSSoyad=@a9,OSTC=@a10,OSTarih=@a12,OSSaat=@a13 where OSPNR=@a11", baglanti);
-            komutguncelle.Parameters.AddWithValue("@a1", cmbNereden.Text);
-            komutguncelle.Parameters.AddWithValue("@a2", cmbNereye.Text);
-            komutguncelle.Parameters.AddWithValue("@a3", cmbOtobüsFirma.Text);
-            komutguncelle.Parameters.AddWithValue("@a4", label8.Text);
-            komutguncelle.Parameters.AddWithValue("@a5", cmbKoltukNumara.Text);
-            komutguncelle.Parameters.AddWithValue("@a6", txtEmail.Text);
-            komutguncelle.Parameters.AddWithValue("@a7", mskTelefon.Text);
-            komutguncelle.Parameters.AddWithValue("@a8", txtAd.Text);
-            komutguncelle.Parameters.AddWithValue("@a9", txtSoyad.Text);
-            komutguncelle.Parameters.AddWithValue("@a10", mskTC.Text);
-            komutguncelle.Parameters.AddWithValue("@a11", txtPNR.Text);
-            komutguncelle.Parameters.AddWithValue("@a12", this.textBox1.Text);
-            komutguncelle.Parameters.AddWithValue("@a13", mskSaat.Text);
-            komutguncelle.ExecuteNonQuery();
-            baglanti.Close();
+            bagla.otobusSeferGuncelle(cmbNereden.Text, cmbNereye.Text, cmbOtobüsFirma.Text, label8.Text, cmbKoltukNumara.Text, txtEmail.Text, mskTelefon.Text, txtAd.Text, txtSoyad.Text, mskTC.Text, txtPNR.Text, this.textBox1.Text, mskSaat.Text);
             MessageBox.Show("Otobüs Seferi Güncellendi");
         }
 
@@ -279,6 +245,11 @@ namespace Proje
             fr.Show();
         }
 
-
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Sehiradmin fr = new Sehiradmin();
+            fr.Show();
+            this.Hide();
+        }
     }
 }

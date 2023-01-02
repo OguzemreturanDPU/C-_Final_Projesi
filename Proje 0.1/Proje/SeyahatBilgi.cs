@@ -47,5 +47,10 @@ namespace Proje
             dataGridView1.DataSource = dt;
             baglanti.Close();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
